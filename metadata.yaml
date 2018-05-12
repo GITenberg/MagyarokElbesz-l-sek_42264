@@ -1,0 +1,28 @@
+_repo: MagyarokElbesz-l-sek_42264
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42264-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia: http://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2013-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42264'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+title: 'Magyarok: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/42264
